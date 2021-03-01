@@ -1,0 +1,49 @@
+html {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.Letter{
+    display: flex;
+}
+.Love .photo{
+    display: inline-block;
+}
+ul {
+    margin-top: 5%;
+    border: solid 3px red;
+    text-align: center;
+}
+ul li{
+    font-size: 20px;
+    color: black;
+}
+.lli{
+    font-size: 25px;
+}
+.photo{
+    padding-top: 6%;
+    padding-left: 1%;
+}
+body {
+    background: rgb(244,168,200);
+    background: -moz-linear-gradient(90deg, rgba(244,168,200,1) 0%, rgba(0,109,246,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(244,168,200,1) 0%, rgba(0,109,246,1) 100%);
+    background: linear-gradient(90deg, rgba(244,168,200,1) 0%, rgba(0,109,246,1) 100%);
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.container {
+    background: #fff;
+    border-radius: 10px;
+}
+
+hr {
+    margin-left: 0;
+    width: 80px;
+    background: #000;
+}
